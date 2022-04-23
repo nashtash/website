@@ -1,0 +1,26 @@
+
+body{
+    color: #444;
+    background-color: #EEE;
+    padding: 2.3em 4.2em;
+    font-size: 100%;
+    line-height: 2;
+    margin: 40px auto;
+    max-width: 650px;
+}
+.inherit {
+    font: inherit;
+  }
+code {
+    color: gray;
+    letter-spacing: 2px;
+  	white-space: code-wrap;
+    display: inline;
+  }
+strong {
+    font-weight: bolder;
+  }
+a {
+    color: rgb(255, 0, 234);
+    text-decoration: none;
+  }
